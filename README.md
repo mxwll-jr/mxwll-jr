@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mxwll-jr
 - 👀 I’m interested in Web Development & Cyber Security
-- 🌱 I’m currently learning Vue Js
+- 🌱 I’m currently learning JavaScript & Vue Js
 - 💞️ I’m looking to collaborate on Web Development and FrontEnd projects
 - 📫 You can reach me via email mxwll_jr@pm.me
 
