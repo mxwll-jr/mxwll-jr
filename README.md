@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Maxwell
+- 👋 Hi, I’m Samson
 - 👀 I’m interested in Web Development & Cyber Security
-- 🌱 I’m currently learning JavaScript & Vue Js
-- 💞️ I’m looking to collaborate on Web Development and FrontEnd projects
-- 📫 You can reach me via email mxwllcodes@protonmail.com
+- 🌱 I’m currently on a track to become a SOC Analyst
+- 💞️ I'll be dropping learning resources for cybersecurity beginners here
+- 📫 You can reach me via email samsonmaxwell@protonmail.com
 
 <!---
 mxwllcodes/mxwllcodes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
